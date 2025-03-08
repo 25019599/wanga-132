@@ -1,0 +1,16 @@
+public class Rectangle {
+    public static void main(String[] args) {
+        // Set values for length and width
+        double length = 8.0;
+        double width = 4.0;
+
+        // Calculate area and perimeter
+        double area = length * width;
+        double perimeter = 2 * (length + width);
+
+        // Display results
+        System.out.println("\nRectangle Properties:");
+        System.out.println("Area = " + length + " × " + width + " = " + area);
+        System.out.println("Perimeter = 2 × (" + length + " + " + width + ") = " + perimeter);
+    }
+}
