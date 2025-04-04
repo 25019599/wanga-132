@@ -1,0 +1,22 @@
+nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.burmashave;
+
+import javax.swing.JOptionPane;
+
+/**
+ *
+ * @author nengo
+ */
+public class BurmaShave {
+
+    public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null,"Shaving brushes");
+        JOptionPane.showMessageDialog(null,"You'll soon see 'em");
+        JOptionPane.showMessageDialog(null,"On a shelf");
+        JOptionPane.showMessageDialog(null,"In some meseum");
+        JOptionPane.showMessageDialog(null,"Burma Shave");
+        
+    }
+}
